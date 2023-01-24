@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "61a0f7b530f06ace92df",
+    "revision": "673a844ab714f9469570",
     "url": "/react-tenzies/static/css/main.cd4a236d.chunk.css"
   },
   {
-    "revision": "61a0f7b530f06ace92df",
-    "url": "/react-tenzies/static/js/main.61a0f7b5.chunk.js"
+    "revision": "673a844ab714f9469570",
+    "url": "/react-tenzies/static/js/main.673a844a.chunk.js"
   },
   {
     "revision": "4587b35573b7dda0a77d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/react-tenzies/static/js/runtime~main.d98bc50d.js"
   },
   {
-    "revision": "b7fd4fa07c43110107a890b7a98fc76b",
+    "revision": "843deb81251ccf861c16466f9ef024dc",
     "url": "/react-tenzies/index.html"
   }
 ];
