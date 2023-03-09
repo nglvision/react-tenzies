@@ -2,7 +2,7 @@ import React from "react";
 function Footer() {
   return (
     <footer>
-      <small>&copy; 2022 DevA development.</small>
+      <small>&copy; 2022 DevA development</small>
     </footer>
   );
 }
