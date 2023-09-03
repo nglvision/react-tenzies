@@ -98,7 +98,7 @@ function App(props) {
         <div className="box">
           <h1 className="title">주사위 게임</h1>
           <p className="instructions">
-            같은 주사위 숫자가 될 때까지 돌리세요. 원하는 숫자를 클릭해
+            같은 주사위 숫자가 될 때까지 돌려보세요. 원하는 숫자를 클릭해
             잡으세요.
             {/* <br /> Roll until all dice are the same. Click each die to
             freeze it at its current value between rolls. */}
