@@ -2,7 +2,6 @@ import React from "react";
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
 import Die from "./components/Die";
-import Dots from "./components/Dots";
 import { nanoid } from "nanoid";
 import Confetti from "react-confetti";
 
