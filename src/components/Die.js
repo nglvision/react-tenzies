@@ -3,7 +3,7 @@ import Dots from "./Dots";
 import { nanoid } from "nanoid";
 
 export default function Die(props) {
-  const [dots, setDots] = React.useState(countDots());
+  const [dots] = React.useState(countDots());
   function countDots() {
     let dot = [];
     for (let i = 0; i < props.value; i++) {
